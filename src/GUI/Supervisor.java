@@ -135,7 +135,8 @@ String estado = "";
 			
 			dnisuper=Integer.parseInt(txtDNI.getText());
 			celsuper=Integer.parseInt(txtCelular.getText().trim());
-			
+			//probando1
+		
 			//if(nomsuper.equals("")) {
 				//mensaje("Campo título es obligatorio");
 					//txtNombre.requestFocus();
